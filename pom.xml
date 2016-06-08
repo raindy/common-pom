@@ -10,7 +10,6 @@
 		<nexus.url>http://171.92.208.92:23230/nexus</nexus.url>
 		<log4j.version>1.2.16</log4j.version>
 		<junit.version>4.7</junit.version>
-		<maven.home>C:\Java\apache-maven-3.3.9</maven.home>
 	</properties>
 	<scm>
 		<connection>scm:git:https://github.com/raindy/common-pom</connection>
